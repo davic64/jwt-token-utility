@@ -15,12 +15,12 @@
   "author": "Dave Victoria",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/davic64/jwt-token-utility.git"
   },
   "bugs": {
-    "url": ""
+    "url": "https://github.com/davic64/jwt-token-utility/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/davic64/jwt-token-utility",
   "license": "MIT",
   "dependencies": {
     "jsonwebtoken": "^8.5.1"
