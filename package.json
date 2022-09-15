@@ -1,0 +1,28 @@
+{
+  "name": "jwt-token-utility",
+  "version": "1.0.0",
+  "description": "JWT authentication utility",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {},
+  "keywords": [
+    "jwt",
+    "auth",
+    "authentication",
+    "token",
+    "jsonwebtoken"
+  ],
+  "author": "Dave Victoria",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "license": "MIT",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
+}
